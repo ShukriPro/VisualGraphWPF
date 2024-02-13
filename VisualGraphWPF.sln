@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualGraphWPF", "VisualGraphWPF\VisualGraphWPF.csproj", "{997B3C2C-FAA0-43D1-B66C-46C559F3775B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997B3C2C-FAA0-43D1-B66C-46C559F3775B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997B3C2C-FAA0-43D1-B66C-46C559F3775B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997B3C2C-FAA0-43D1-B66C-46C559F3775B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997B3C2C-FAA0-43D1-B66C-46C559F3775B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1379D1A-1257-459A-B032-B816185C9CA8}
+	EndGlobalSection
+EndGlobal
