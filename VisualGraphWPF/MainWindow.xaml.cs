@@ -19,6 +19,7 @@ namespace VisualGraphWPF
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new MainViewModel();
         }
     }
 }
